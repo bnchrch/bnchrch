@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/RCHxTBK.jpg)
-Hi! My name's Ben
+## Hi! My name's Ben
 
 I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I've led several engineering teams & worked with some awesome companies including Uber, Facebook & Lonely Planet.
 
