@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/RCHxTBK.jpg)
 ## Hi! My name's Ben
 
-I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I've led several engineering teams & worked with some awesome companies including Uber, Facebook & Lonely Planet.
+I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I've led several engineering teams & worked with some awesome companies including `Uber`, `Facebook` & `Lonely Planet`.
 
 I currently head up a small consultancy called [ShipWithUs](https://www.shipwithus.io/) which works hard to give our clients a meaningful competitive advantage over their markets using tools which we believe are the future of development. React Native, GraphQL, Next.js and Elixir to name a few.
 
