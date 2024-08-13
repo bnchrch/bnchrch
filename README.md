@@ -3,7 +3,9 @@
 
 I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I've led several engineering teams & worked with some awesome companies including `Uber`, `Facebook` & `Lonely Planet`.
 
-I currently head up a small consultancy called [ShipWithUs](https://www.shipwithus.io/) which works hard to give our clients a meaningful competitive advantage over their markets using tools which we believe are the future of development. React Native, GraphQL, Next.js and Elixir to name a few.
+Previously I led a consultancy called [ShipWithUs](https://www.shipwithus.io/) which worked hard to give our clients a meaningful competitive advantage over their markets using tools which we believe are the future of development. React Native, GraphQL, Next.js and Elixir to name a few.
+
+Now I'm a Staff Engineer at [Airbyte](https://airbyte.com/) writing open source and moving data for the worlds largest and most innovative companies (Perplexity, Cart, Unity, Seimens, Datadog, etc...)
 
 ### 👩‍💻 I've been Involved with
 - [Facebook Messenger](https://about.fb.com/news/2017/04%3E/messenger-f8/)
@@ -19,3 +21,4 @@ I currently head up a small consultancy called [ShipWithUs](https://www.shipwith
 ### 🗣 I've Spoken at
 - [Diffusion, Berlin](https://youtu.be/nSi0-Dfitso?t=13345)
 - [The Big Elixir, New Orleans](https://youtu.be/GTP0llRvEmE?t=490)
+- [Scale By The Bay, Oakland](https://youtu.be/U_g06VqdKUc?si=ELaB4YFmBXXrYWLc)
