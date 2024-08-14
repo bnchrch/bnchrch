@@ -5,7 +5,7 @@ I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I'v
 
 Previously I led a consultancy called [ShipWithUs](https://www.shipwithus.io/) which worked hard to give our clients a meaningful competitive advantage over their markets using tools which we believe are the future of development. React Native, GraphQL, Next.js and Elixir to name a few.
 
-Now I'm a Staff Engineer at [Airbyte](https://airbyte.com/) writing open source and moving data for the worlds largest and most innovative companies (`Perplexity`, `Cart`, `Unity`, `Seimens`, `Datadog`, etc...)
+Now I'm on the Engineering Team at [Airbyte](https://airbyte.com/) writing open source and moving data for the worlds largest and most innovative companies (`Perplexity`, `Cart`, `Unity`, `Seimens`, `Datadog`, etc...)
 
 ### 👩‍💻 I've been Involved with
 - [Facebook Messenger](https://about.fb.com/news/2017/04%3E/messenger-f8/)
