@@ -1,13 +1,16 @@
-![](https://i.imgur.com/RCHxTBK.jpg)
+![Ben Church](https://i.imgur.com/RCHxTBK.jpg)
+
 ## Hi! My name's Ben
 
-I'm a Remote Engineer based in Los Angeles though I work exclusively remote. I've led several engineering teams & worked with some awesome companies including `Uber`, `Facebook` & `Lonely Planet`.
+I'm a Remote Engineer based in Los Angeles, working exclusively remote. I've led engineering teams and partnered with innovative companies including `Uber`, `Facebook`, and `Lonely Planet`.
 
-Previously I led a consultancy called [ShipWithUs](https://www.shipwithus.io/) which worked hard to give our clients a meaningful competitive advantage over their markets using tools which we believe are the future of development. React Native, GraphQL, Next.js and Elixir to name a few.
+Previously, I founded and led [Infinite Interface](https://www.infiniteinterface.com/), a fintech-focused consultancy dedicated to giving clients a true competitive edge. At Infinite Interface, we delivered solutions across the financial spectrum—from traditional finance and lending (leveraging tools like Plaid) to pioneering work in Web3, building for leading lending protocols and integrating smart contracts. We also partnered with AI market leaders such as OpenAI, helping them push the boundaries of what's possible.
 
-Now I'm on the Engineering Team at [Airbyte](https://airbyte.com/) writing open source and moving data for the worlds largest and most innovative companies (`Perplexity`, `Cart`, `Unity`, `Seimens`, `Datadog`, etc...)
+Our toolkit was as diverse as our client base: React Native, GraphQL, Next.js, Elixir, Rust, and more—always choosing the right technology to solve the hardest problems.
 
-### 👩‍💻 I've been Involved with
+Now, I'm on the Engineering Team at [Airbyte](https://airbyte.com/), building open source data infrastructure for some of the world's most innovative companies (`Perplexity`, `Cart`, `Unity`, `Siemens`, `Datadog`, and more).
+
+### 👩‍💻 I've Been Involved With
 - [Facebook Messenger](https://about.fb.com/news/2017/04%3E/messenger-f8/)
 - [Trips by Lonely Planet](https://www.lonelyplanet.com/trips)
 
@@ -18,7 +21,8 @@ Now I'm on the Engineering Team at [Airbyte](https://airbyte.com/) writing open 
 - [Reading and Writing from Apple's HealthKit](https://by.ben.church/How-to-read-and-write-Mindful-Minutes-from-iOS's-HealthKit-with-Swift/)
 - [And many more...](https://by.ben.church/)
 
-### 🗣 I've Spoken at
+### 🗣 I've Spoken At
 - [Diffusion, Berlin](https://youtu.be/nSi0-Dfitso?t=13345)
 - [The Big Elixir, New Orleans](https://youtu.be/GTP0llRvEmE?t=490)
 - [Scale By The Bay, Oakland](https://youtu.be/U_g06VqdKUc?si=ELaB4YFmBXXrYWLc)
+- [Move(data), San Francisco](https://youtu.be/fvBjy-j8ehE?si=fB0OKe0-42tSk3XO)
