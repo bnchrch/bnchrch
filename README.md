@@ -29,5 +29,8 @@ Now, I'm on the Engineering Team at [Airbyte](https://airbyte.com/), building op
 
 
 ![bnchrch's Stats](https://github-readme-stats.vercel.app/api?username=bnchrch&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+
 ![bnchrch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bnchrch&theme=graywhite&hide_border=true)
+
 ![bnchrch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnchrch&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
