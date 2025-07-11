@@ -28,9 +28,6 @@ Now, I'm on the Engineering Team at [Airbyte](https://airbyte.com/), building op
 - [Move(data), San Francisco](https://youtu.be/fvBjy-j8ehE?si=fB0OKe0-42tSk3XO)
 
 
-![bnchrch's Stats](https://github-readme-stats.vercel.app/api?username=bnchrch&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![bnchrch's Stats](https://github-readme-stats.vercel.app/api?username=bnchrch&theme=graywhite&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![bnchrch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bnchrch&theme=graywhite&hide_border=true)
-
-![bnchrch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnchrch&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
