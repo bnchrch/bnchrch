@@ -2,9 +2,9 @@
 
 ## Hi! My name's Ben
 
-I'm a Remote Engineer based in Los Angeles, working exclusively remote. I've led engineering teams and partnered with innovative companies including `Uber`, `Facebook`, and `Lonely Planet`.
+I'm a Remote Engineer based in Los Angeles, working exclusively remote. I've led engineering teams and partnered with innovative companies including `Uber`, `Facebook`, `Airbyte` and `Lonely Planet`.
 
-Previously, I founded and led [Infinite Interface](https://www.infiniteinterface.com/), a fintech-focused consultancy dedicated to giving clients a true competitive edge. At Infinite Interface, we delivered solutions across the financial spectrum—from traditional finance and lending (leveraging tools like Plaid) to pioneering work in Web3, building for leading lending protocols and integrating smart contracts. We also partnered with AI market leaders such as OpenAI, helping them push the boundaries of what's possible.
+Previously, I founded and led [Infinite Interface](https://www.infiniteinterface.com/), a fintech-focused consultancy dedicated to giving clients a true competitive edge. At Infinite Interface, we delivered solutions across the financial spectrum—from traditional finance and lending (leveraging tools like Plaid) to pioneering work in Web3, building for leading lending protocols and integrating smart contracts.
 
 Our toolkit was as diverse as our client base: React Native, GraphQL, Next.js, Elixir, Rust, and more—always choosing the right technology to solve the hardest problems.
 
